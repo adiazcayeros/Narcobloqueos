@@ -1,0 +1,346 @@
+﻿#,Title,Alert Type,Status,Start,End,Latitude,Longitude,Source,Description,ID
+1,🚨⚠️🔫 Operativo en Tapalpa tras enfrentamiento armado,safety,PAST,2026-02-22 15:44,2026-02-23 05:00,19.9478857,-103.7624879,C3ntro,"Tras realizar un operativo policiaco en Tapalpa Jalisco, se derivo un enfrentamiento armado, del cual se desplegaron. múltiples narcobloquoes y quema de unidades.
+
+#NAB",878fb9bc-02a3-4abc-8b68-378291a05baf
+2,"🚨⚠️🔫  Ataque armado en Los Charcos, Guanajuato ",safety,PAST,2026-02-22 16:10,2026-02-23 04:00,20.92738693,-101.4978141,C3ntro,"Situación de riesgo debido a presunto ataque armado.
+
+- Precaución en la zona.
+
+#NAB",651284db-5c73-4686-919c-0b26484329b5
+3,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.74043,-103.399386,C3ntro,"Av. Periférico y  Valdepeñas situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",9603a240-5bf1-4b88-a9b2-3e2758098ad8
+4,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.73351535,-103.3601426,C3ntro,"Av. Periférico y Av. Tabachines, situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",e72c2b5e-776f-45b5-8747-7ff66144da14
+5,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.78187035,-103.4628603,C3ntro,"Juan Gil Preciado y Carr. Colotlán, situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",0a9f3649-1c9d-440b-a00b-8f3971f90a55
+6,🚧🦺👷Cierre parcial por obras de mantenimiento en Av. del Iman,general,ACTIVE,2025-11-15 18:50,2026-02-28 18:52,19.30426551,-99.16001411,C3ntro,"📍Coyoacán, CDMX
+A la altura del Parque Ecológico Santa Ursula, cierre parcial en ambos sentidos debido a labores de mantenimiento.
+
+Vigencia: febrero 2026.",56a7edcb-6ea3-4415-9ba7-671443f8a6f5
+7,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:34,2026-02-23 00:00,19.70194589,-103.4638945,C3ntro,"Banco del Bienestar - Ciudad Guzmán,  situación de riesgo debido a quema de instalaciones. 
+",6664aa95-33de-458a-bbcb-beb8a099f730
+8,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:30,2026-02-23 00:00,21.13386612,-102.0098067,C3ntro,"Banco del Bienestar Union de San Antonio, situación de riesgo debido a quema de instalaciones. 
+",27f22799-cc63-4917-a5fa-886d75271096
+9,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:29,2026-02-23 00:00,20.54521048,-102.5153096,C3ntro," Atotonilco el Alto Banco del Bienestar, situación de riesgo debido a quema de instalaciones. ",98ea7abe-ff66-4b5f-ac36-10a49a8abdba
+10,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:27,2026-02-23 00:00,20.99644203,-101.9886306,C3ntro,"Banco del Bienestar-San Diego de Alejandría, situación de riesgo debido a quema de instalaciones. ",62ec7d64-3a57-4531-ac1e-1268ba7bfc14
+11,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:25,2026-02-23 00:00,21.16688667,-102.4666279,C3ntro,"Banco del Bienestar Jalostotitlán, situación de riesgo debido a quema de instalaciones. ",971ac6b0-5c84-47ea-9b98-dbbb2623da90
+12,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:22,2026-02-23 00:00,20.3439052,-102.7651088,C3ntro,"Banco del Bienestar Ooctlan, situación de riesgo debido a quema de instalaciones. 
+",3a8d2e35-be84-4fa0-b6fc-801ca29cb643
+13,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:21,2026-02-23 00:00,19.88548466,-103.6091773,C3ntro,"Sayula Jalisco Banco del Bienestar, situación de riesgo debido a quema de instalaciones.",2c85791f-0f13-4bb8-9824-186828b03b8b
+14,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:18,2026-02-23 00:00,20.80935132,-102.7658503,C3ntro,"Banco del Bienestar Manuel Altamirano en Tepatitlán, situación de riesgo debido a quema de instalaciones. 
+
+#NAB",2d2a4cba-ef1e-4756-b736-64b6f6cda1cf
+15,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:16,2026-02-23 00:00,20.53040563,-104.0385747,C3ntro,"Banco del Bienestar Ameca, situación de riesgo debido a quema de instalaciones. 
+
+#NAB",2a193565-c3d7-4b74-b0e4-e8009ee1aaf9
+16,"🚨⚠️🔫 Situación de riesgo en Juchipila, Zacatecas.",safety,PAST,2026-02-22 21:04,2026-02-23 00:00,21.40555495,-103.1199518,C3ntro,"situación de riesgo por incendiado el Banco del Bienestar. 
+
+*Ubicación de referencia
+
+#NAB",3a7ebe67-fbce-4583-bb26-af819aab68b3
+17,🚨⚠️🔫 Situación de riesgo en MICHOACÁN ,safety,PAST,2026-02-22 23:40,2026-02-23 00:40,19.66543841,-101.2252847,C3ntro,"Se reportó que fue incendiado un vehículo sobre la carretera de salida a Pátzcuaro, Morelia. 
+
+#NAB",23aaf340-e5c1-4092-9774-d915f48311f7
+18,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar Coacalco,safety,PAST,2026-02-23 01:14,2026-02-23 02:00,19.64437553,-99.08408155,C3ntro,"Queman Banco del Bienestar en Coacalco, Edomex, a un lado del Centro de Atención Canina.",2dce7041-47e5-4b14-922b-3dbdf1f26d91
+19,🚨⚠️🔫 Situación de riesgo en JALISCO,safety,PAST,2026-02-22 21:16,2026-02-23 00:18,20.72904576,-105.1599074,C3ntro,"Se informa sobre un enfrentamiento entre fuerzas de seguridad mexicanas y miembros del CJNG en La Desembocada, en las afueras del norte de Puerto Vallarta.
+#NAB",db323d1f-3c89-4008-b4e2-f7e76ce82a47
+20,🚨⚠️🔫 Situación de riesgo en Acatlipa Temixco,safety,PAST,2026-02-22 22:51,2026-02-23 05:00,18.82835503,-99.22786877,C3ntro,"Acatlipa Temixco, Morelos, situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",8e1f2776-6c69-4f5f-8b16-bb522f00f839
+21,🚨⚠️🚫 Plazas de Cobro cerradas por situación de riesgo.,safety,PAST,2026-02-22 23:17,2026-02-23 05:00,16.9283996,-99.8019166,C3ntro,"Plaza de cobro cerrada debido a incidencias presentadas durante el día:
+
+La Venta, Guerrero.",8a44cf15-d75b-4fb7-9e12-4a178b7f5276
+22,🚨⚠️🚫 Plazas de Cobro cerradas por situación de riesgo.,safety,PAST,2026-02-22 23:20,2026-02-23 05:00,26.31200635,-98.84188019,C3ntro,"Plaza de cobro cerrada debido a incidencias presentadas durante el día:
+
+Puente San Juan, Tamaulipas.",ae7e997a-ba1c-4198-87b4-f82a727c9f7c
+23, 🚨⚠️🚫 Plazas de Cobro cerradas por situación de riesgo.,safety,PAST,2026-02-22 23:21,2026-02-23 05:00,21.2294933,-104.8874347,C3ntro,"Plaza de cobro cerrada debido a incidencias presentadas durante el día:
+
+Compostela, Nayarit.",537f2e50-2e0b-4630-9835-230d9494c391
+24,🚨⚠️🚫 Plazas de Cobro cerradas por situación de riesgo.,safety,PAST,2026-02-22 23:22,2026-02-23 05:00,21.4904219,-101.7633247,C3ntro,"Plaza de cobro cerrada debido a incidencias presentadas durante el día:
+
+Lagos de Moreno, San Luis Potosí.",39e3f8a2-ddc7-4183-a7ae-048f10637c00
+25,🚧🦺👷 Alerta preventiva por labores de mantenimiento en Blvd. Ávila Camacho,vial,ACTIVE,2026-01-05 12:35,2026-04-21 05:30,19.45446323,-99.21999317,C3ntro,"Día: 05 de Enero hasta 30 de Abril 
+Tramo: Blvd. Manuel Ávila Camacho, entre Av. Río San Joaquín y Calle Lic. Rafael Reyes Espíndola. 
+Cierre de circulación en sentido de Toreo - Tepotzotlán. 
+
+#AVPV",87e1a8a0-ae2e-424f-94a6-08328562b166
+26,🚨⚠️🔫 Situación de riesgo en NUEVO LEÓN,safety,PAST,2026-02-22 19:54,2026-02-23 05:55,24.89699158,-99.41693163,C3ntro,"Se reporta un bloqueo en el Sur de Nuevo León, en la carretera a Cerro Prieto, a la altura de Cascajoso, Linares. #NAB",c860b943-6e48-4e72-abf4-24a1713841be
+27,🚨⚠️🔫 Situación de riesgo en en San Martin Texmelucan,safety,PAST,2026-02-22 17:26,2026-02-23 00:00,19.34666483,-98.60091704,C3ntro,"A la altura de La Cantera, situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",25eaf4dd-9fe2-4865-a859-9cce719eb546
+28,"🚨⚠️🔫 Situación de riesgo en Crucero Bellavista, Jalisco ",safety,PAST,2026-02-22 15:09,2026-02-23 00:00,20.41658365,-103.6264873,C3ntro,"Crucero Bellavista, cierre de circulación debido a situación de riesgo (presunto narcobloqueo con quema de unidades)
+
+
+#NAB",e372700f-9f90-466f-9273-b6dbc3317d54
+29,"🚨⚠️🔫 Situación de riesgo en la carr. México - Querétaro, Querétaro",safety,PAST,2026-02-22 20:07,2026-02-23 05:00,20.41140798,-100.0385901,C3ntro,Quema de tractocamión situación de riesgo por presuntos (narcobloqueos con quema de unidades). #NAB,12d308c6-09d1-437c-a4d1-0150910b7544
+30,🚨⚠️🚫 Plazas de Cobro cerradas por situación de riesgo.,safety,PAST,2026-02-22 23:24,2026-02-23 02:00,20.2960578,-99.9290563,C3ntro,"Plaza de cobro cerrada debido a incidencias presentadas durante el día:
+
+Plaza de cobro",55d0a3e6-acf4-49ca-af47-f26388ab4a66
+31,🚨⚠️🔫 Situación de riesgo en Aut. Manzanillo - Puerto Vallarta,safety,PAST,2026-02-22 15:41,2026-02-23 00:00,19.23681859,-104.5543708,C3ntro,"En puente Cihuatlán, cierre de circulación debido a presunto narcobloqueo con vehículos incendiados.
+
+#NAB",03c2c46d-f413-40aa-bdf0-305a42e37910
+32,"Situación de riesgo en la carr. México - Querétaro, Hidalgo",safety,PAST,2026-02-22 20:26,2026-02-23 05:00,19.97770203,-99.34258348,C3ntro,Quema de unidades situación de riesgo por presuntos (narcobloqueos con quema de unidades). #NAB,e828803e-8028-46f2-bd76-a8e5c6cd484f
+33,🚨⚠️🔫 Situación de riesgo en MICHOACÁN ,safety,PAST,2026-02-23 00:33,2026-02-23 05:34,19.80741152,-101.782736,C3ntro,"Se reportó un enfrentamiento armado, se mantiene fuerte presencia militar en Zacapu. 
+
+*Ubicación de referencia #NAB ",e81a1337-dea7-4980-b3d6-e7c6f85d58c5
+34,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.74132525,-103.3870511,C3ntro,"Carretera a Saltillo y Bosques de San Isidro, situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",71b203df-e1ad-4f1a-9b55-bd7c8ee4f3bb
+35,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.6773971,-103.4142282,C3ntro,"Av. Periférico y Av. Vallarta, situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",b89f2298-b7b9-4c5b-9534-32ea44107cba
+36,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.7086789,-103.4582428,C3ntro,"Av. Aviación y Ocampo, situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",993c9f7d-508b-442b-b23d-9a9f3a9bffee
+37,🚧⚠️ 🦺👷Labores de mantenimiento en Carr. Los Arrastres - La Tapona,vial,ACTIVE,2026-01-19 13:00,2026-03-20 01:00,21.33623196,-101.2710614,C3ntro,"Cierres parciales a la circulación en ambos carriles de la carretera Silao–San Felipe, debido a trabajos de conservación carretera en el tramo Los Arrastres–La Tapona.
+
+Del 19 de enero, tramo Los Arrastres–La Tapona, cierres en un horario de 7:00 de la mañana a 6:00 de la tarde y se tiene previsto que concluyan el 19 de marzo
+",15000370-7e85-4d3b-91c6-64df9c2af1e9
+38,🚨⚠️🔫 Situación de riesgo en Tula - Cd. Victoria,safety,PAST,2026-02-22 20:31,2026-02-23 05:32,22.76446827,-99.94612054,C3ntro,"A la altura del entronque a Nuevo Padilla, situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",856083eb-4c4c-462a-af3e-04a2df328035
+39,🚨⚠️🔫 Situación de riesgo en Acapulco,safety,PAST,2026-02-22 20:40,2026-02-23 05:41,16.86280355,-99.90751863,C3ntro,"Situación de riesgo por ataque armado a las inmediaciones de Fiscalía General de Acapulco.
+
+#NAB",0b6afb7c-aab3-48d4-b69e-9befca3be01f
+40,"🚨⚠️🔫 Situación de riesgo en Col. Zapata, Acapulco",safety,PAST,2026-02-22 20:45,2026-02-23 05:46,16.90022751,-99.83366737,C3ntro,"situación de riesgo debido a ataque armado a comandancia en la Col. Zapata.
+
+",a71c6106-8dca-49b0-a2cc-c71e0f992de0
+41,"🚨⚠️🔫 Situación de riesgo en Pie de Cuesta, Acapulco",safety,PAST,2026-02-22 20:49,2026-02-23 05:50,16.86172928,-99.91679436,C3ntro,"Situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",b528e5da-c475-4ebf-bb79-700ddf89b4d7
+42,"🚨⚠️🔫 Situación de riesgo en Vicente Guerrero, Acapulco",safety,PAST,2026-02-22 20:57,2026-02-23 05:58,16.89077872,-99.83571872,C3ntro,"Una unidad del servicio público fue incendiada sobre el bulevar Vicente Guerrero, a la altura de Aurrerá Cruces.
+
+*Ubicación de referencia
+
+#NAB
+
+",2608ad08-f608-4675-be0f-daa7f22a9471
+43,🚨⚠️🔫 Situación de riesgo en Aut. Cuernavaca - Acapulco,safety,PAST,2026-02-22 21:02,2026-02-23 05:00,16.92847143,-99.80203462,C3ntro,"Plaza de Cobro Venta, situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",9e83e554-357d-443d-b61d-88cba6bdc6b5
+44,⚠️ 🦺👷Trabajos de construcción sobre Periférico S.L.P,vial,ACTIVE,2026-02-06 16:05,2026-03-01 16:07,22.15496234,-100.9146685,C3ntro,"Carr. Río Verde cruce con Periferico, cierre intermitente de circulación debido a trabajos de construcción de puente.
+
+#AVPV",ac89fa86-5542-4ce8-b64c-c995bd1341a3
+45,🚧🦺👷 Labores de mantenimiento en Aut. México - Querétaro ,vial,ACTIVE,2026-01-26 16:45,2026-02-27 05:00,20.57141553,-100.2854106,C3ntro,"Se presenta carga vial por labores de modernización.  Km 194 al 206,  con dirección Querétaro.
+✅ Anticipe sus traslados y maneje con precaución. 
+
+",fea320a2-55e2-4d4c-b3eb-7eff77447ee6
+46,"🚧🦺👷 Labores de mantenimiento en Arco Norte km 109+600, EdoMex ",vial,ACTIVE,2026-01-19 20:30,2026-03-20 05:00,19.95621527,-99.05582288,C3ntro,"Trabajos de demolición del puente, a altura de Ajoloapan.
+🚧Reducción de carriles, se habilita circulación bidireccional las 24 Hrs. (transito a un solo cuerpo, doble flujo en un solo cuerpo) 
+✅ Sigue la señalización.
+
+#AVPV",fc4b5b73-6695-4759-bcd7-047230b4df53
+47,Exploración,safety,PAST,2026-02-22 07:10,2026-02-22 11:10,20.27758306,-103.446891,Aliados en ruta. En proceso de validación,Narcos,281414c4-9f0a-4e1a-8e1d-de23f6981897
+48,Cierre parcial de circulación,vial,PAST,2026-02-22 17:05,2026-02-22 21:05,20.7978478,-103.726671,C3ntro,"Se registra cierre parcial de circulación en el km 18.0, en la carretera guadalajara - tepic",2806faa8-0635-4f88-a732-4db0d284099f
+49,Quema de Oxxo,general,PAST,2026-02-22 09:44,2026-02-22 13:44,20.5828701,-100.3744282,C3ntro,Quema de Oxxo,aae450b5-ab75-41b6-a4af-b670bd090063
+50,Cierre parcial de circulación en Jalisco,vial,PAST,2026-02-22 17:05,2026-02-23 05:59,20.8096762,-103.7817084,C3ntro,Se registra cierre parcial de circulación en el km 24 de la carretera guadalajara-tepic. atienda indicación.,b975bd6b-caf8-40c1-b8eb-e1e8bf1a2079
+51,🚨💢🚧🚚🚌 Carga vehicular Aut. México - Querétaro ,vial,PAST,2026-02-23 07:00,2026-02-22 20:00,19.71538078,-99.20749378,C3ntro,"Plaza de Cobro Tepotzotlán. Registra carga vehicular en dirección CDMX, sin reporte de incidentes.
+
+#AVPV",e131277c-9daf-436e-a54c-70b2926b460d
+52,Sobrevuelo de Aviones del Ejército,general,PAST,2026-02-22 15:30,2026-02-22 19:30,19.48355317,-99.2574554,C3ntro,"Los vuelos son poco comunes, ya que regularmente se hacen previo al 16 de Septiembre y 20 de Noviembre ",8679c380-033a-47a7-830e-f6e3a7976ee8
+53,Roban auto blanco tipo sedan y lo queman por obra de la muerte del mencho,general,PAST,2026-02-23 03:45,2026-02-23 05:59,20.11008517,-98.7483364,C3ntro,Roban auto blanco tipo sedan y lo queman por obra de la muerte del mencho,7885f3d2-8272-4bf5-876a-8b55c7597004
+54,👥🚨⚠️ Alerta preventiva por Marcha por el regreso de los Franciscanitos,general,PAST,2026-02-22 18:00,2026-02-23 00:00,19.4362086,-99.1546298,C3ntro,"📍 Punto de encuentro: Monumento a la Revolución
+
+🕛 Hora de salida: 12:00 p.m.
+
+🏁 Destino: Zócalo de la Ciudad de México
+
+📅 Fecha: Domingo 22 de febrero de 2026
+
+Marcha por:
+ • El derecho de los animales a vivir en condiciones dignas
+ • El respeto a los refugios y cuidadores independientes
+ • La reparación del daño causado
+ • La justicia para quienes no tienen voz",37cf9694-f22c-4455-84a1-0b535611f852
+55,🚨⚠️🔫 Situación de riesgo en Carr. a Tesistán,safety,PAST,2026-02-23 02:47,2026-02-23 05:48,20.77344936,-103.4520609,C3ntro,"Situación de riesgo debido a vehículo incendiado en el cruce de Camino Viejo a Tesistán y la calle 4ta Poniente, en la colonia Jardines de Nuevo México.
+
+",eb13aeb7-fbf5-442e-88c8-a28b44bece8d
+56,🚧🦺👷 Labores de mantenimiento programadas en Aut. México - Qro ,general,ACTIVE,2026-01-05 12:30,2026-05-01 05:30,19.70938059,-99.2065857,C3ntro,"Día: 05 de Enero hasta 30 de Abril.
+Tramo: Blvd. Manuel Ávila Camacho, entre Av. Las Torres y Av. del Trabajo. 
+Cierre de circulación en sentido de Tepotzotlán - Toreo. 
+
+
+#AVPV",240d9e90-1732-4649-a79c-1546ac4f3b3a
+57,Robo forzoso y quema de vehículo,vial,PAST,2026-02-23 02:20,2026-02-23 05:59,20.11232314,-98.7474419,C3ntro,Roban auto blanco tipo sedan y lo queman por obra de la muerte del mencho,39385b35-5c54-4b90-ab14-2e5f9f398bd9
+58,Robo y quema de vehículo cerca del hotel western,vial,PAST,2026-02-23 03:42,2026-02-23 05:59,20.11109148,-98.7469696,C3ntro,Roban auto blanco tipo sedan y lo queman por obra de la muerte del mencho,5233e14a-7db3-48cd-8817-6882e8ce3bcb
+59,🚨⚠️🔫 Situación de riesgo en Carr. Atlacomulco - Zapotlanejo,safety,PAST,2026-02-22 15:13,2026-02-23 05:00,20.13523947,-102.0738164,C3ntro,"📍Km 346, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado.
+
+#NAB",5011eb17-d54f-4106-ad8b-fae2e9ec9264
+60,"🚨⚠️🔫 Situación de riesgo en Av. Rio Blanco, Guadalajara ",safety,PAST,2026-02-22 15:23,2026-02-23 00:00,20.759396,-103.388954,C3ntro,"A la altura de Farmacia Guadalajara y Paseo de las Aves. 
+cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",226cb998-d4e4-4587-bb00-0dab40c321c4
+61,Cierre parcial por accidente vial,vial,PAST,2026-02-22 07:21,2026-02-22 11:21,21.5142268,-100.7338536,Twitter,"Se registra cierre parcial de circulación por accidente vial cerca del km 117+400, de la carretera querétaro - san luis potosí.",5fbf647c-6dfb-4f47-80e1-4ae34fc4e4e0
+62,🚨⚠️🔫 Situación de riesgo en  Periférico de Guadalajara,safety,PAST,2026-02-22 15:21,2026-02-23 00:22,20.72131462,-103.317085,C3ntro,"Gasolinera en Calzada y Periférico
+Situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",17b080a8-5f7b-4111-9b85-90d0a2a0baf6
+63,Tramo bloqueado parcialmente,vial,PAST,2026-02-22 16:16,2026-02-23 05:59,20.39057439,-103.1192177,C3ntro,"Tráfico lento debido a bloqueo casi total con un autobus incendiado.
+
+En el extremo de Atotonilquillo - San Jacinto un bus solo permite el paso de un vehículo a la vez, mientras que en sentido San Jacinto - Atotonilquillo el pado está bloqueado totalmente. ",63feac85-4227-417d-8268-43b8d00765e5
+64,🚨⚠️🔫 Situación de riesgo en Aut. Guadalajara - Tepic,safety,PAST,2026-02-22 16:17,2026-02-22 23:18,21.21131308,-104.5924989,C3ntro,"A la altura de El Comedero, situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB
+",51363980-9dbb-4185-8793-63abc0cafe3a
+65,Cierre de circulación en autopista,vial,PAST,2026-02-22 16:53,2026-02-22 20:53,16.9295006,-99.7935588,Twitter,"Cierre en la autopista por incidente, km 366",41dbbb74-bb7e-4c02-a10d-2730fdcd2532
+66,🚨⚠️🔫 Situación de riesgo en Avenida Alcalde,safety,PAST,2026-02-22 15:47,2026-02-23 00:00,20.72748553,-103.3446593,C3ntro,"En el cruce de Avenida Alcalde y Periférico Norte, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",e5ac8ad7-2c11-43b1-845c-ee8e568e5a64
+67,🚨⚠️🔫 Situación de riesgo en Aut. Acatlán de Juárez - Colima ,safety,PAST,2026-02-22 15:19,2026-02-23 00:00,19.88810946,-103.5170885,C3ntro,"Antes de llegar a la plaza de cobro Sayula,  cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",a9825911-cc43-4684-bc65-617cfab5b5d9
+68,🚨⚠️🔫 Situación de riesgo en Morelia - Guadalajara,safety,PAST,2026-02-22 16:19,2026-02-23 00:00,19.90086816,-102.2030129,C3ntro,"A la altura de Parque Nacional Lago de Camécuaro, situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB
+
+*Ubicación de referencia",c0b7516f-2308-4079-a4eb-cdaaaa64503b
+69,🚨⚠️🔫 Situación de riesgo en Macrolibramiento de Guadalajara,safety,PAST,2026-02-22 15:26,2026-02-23 05:00,20.58631092,-103.0993892,C3ntro,"Plaza de Cobro La Laja,  cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",9c3f522c-98d1-4870-aeed-6a648e41d841
+70,🚨⚠️🔫 Situación de riesgo en Aut. Guadalajara - Colima,safety,PAST,2026-02-22 15:50,2026-02-23 00:51,19.66917822,-103.4840471,C3ntro,"A la altura al acceso a Cd. Guzman, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",4b29980d-26a9-42c2-9602-6d937ad7989a
+71,🚨⚠️🔫 Situación de riesgo en Aut. Guadalajara - Morelia,safety,PAST,2026-02-22 15:27,2026-02-23 05:00,20.46598382,-102.907621,C3ntro,"A la altura de Zapotlán, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",67238415-a8f6-4594-84b7-aefb455720fe
+72,🚨⚠️🔫 Situación de riesgo en Morelia - Guadalajara,safety,PAST,2026-02-22 15:49,2026-02-23 03:50,20.48984613,-103.4910751,C3ntro,"Entronque a Tlajomulco de Zúñiga, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",7504a5f6-6ffa-4f14-a40d-fc65a1e44aa1
+73,"🚨⚠️🔫 Situación de riesgo en Magdalena, Jalisco",safety,PAST,2026-02-22 15:53,2026-02-23 03:54,20.90440754,-103.9662549,C3ntro,"Magdalena, JALISCO
+Cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",0a0733ee-18de-42dd-9faf-52c64d1e333a
+74,🚨⚠️🔫 Situación de riesgo en Aut. Guadalajara - Atlacomulco ,safety,PAST,2026-02-22 16:11,2026-02-23 04:00,19.88605416,-101.1879422,C3ntro,"A la altura de Arúmbaro, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. 
+
+#NAB",da8b2f4d-3b58-4c01-bde5-fc77b36a48ab
+75,🚨⚠️🔫 Situación de riesgo en Accesos y salidas de Puerto Vallarta,safety,PAST,2026-02-22 15:55,2026-02-23 00:57,20.59746385,-105.2374981,C3ntro,"Puerto Vallarta, reporte preliminar de  8 unidades incendiadas en la carretera a Mismaloya.
+",83ab4065-05bc-4273-8d71-1277f5a41d95
+76,"🚨⚠️🔫 Situación de riesgo en Momax, Zacatecas",safety,PAST,2026-02-22 17:02,2026-02-23 00:00,21.92815723,-103.3119136,C3ntro,"situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",4af280ab-e87a-4ef8-a978-e72b4bcce358
+77,🚨⚠️🔫 Situación de riesgo en Libramiento norte de La piedad de Cabadas,safety,PAST,2026-02-22 15:59,2026-02-23 00:00,20.39802793,-102.0622028,C3ntro,"Cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",02e6fa87-c9a1-4a16-aa9e-5bc76b630c69
+78,🚨⚠️🔫 Situación de riesgo en Aeropuerto de Guadalajara,safety,PAST,2026-02-22 18:32,2026-02-23 00:33,20.5255415,-103.309643,C3ntro,"Se reporta balacera al interior del Aeropuerto de Guadalajara, vuelos cancelados por el incidente.
+
+",6ef7577e-9316-405d-8e5a-03a3e0ffd144
+79,🚨⚠️🔫 Situación de riesgo en Accesos y salidas de Puerto Vallarta,safety,PAST,2026-02-22 15:58,2026-02-23 00:59,20.60183537,-105.2259632,C3ntro,"Reporte preliminar de 8 unidades siniestradas tras narcobloqueos en Vallarta.
+
+#NAB",49fbc1f0-66cf-4b22-85f5-5a307195540b
+80,🚨⚠️🔫 Situación de riesgo en Ecuandureo,safety,PAST,2026-02-22 16:24,2026-02-23 00:24,20.16056237,-102.2190263,C3ntro,"Las Fuentes, situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB
+*Ubicación de referencia",0bd66ce6-a169-4865-b21e-a99f116169bb
+81,"🚨⚠️🔫 Situación de riesgo en Camargo, Tamaulipas",safety,PAST,2026-02-22 16:43,2026-02-23 00:44,26.31198712,-98.84188019,C3ntro,"Plaza de cobro No. 48 Puente
+Nacional San Juan, 
+situación de riesgo (narcobloqueo con quema de unidades).
+
+ #NAB",8fd229dc-60d1-4e06-a6a4-60d5ecbfb293
+82,🚨⚠️🔫 Situación de riesgo en Zamora - La Piedad,safety,PAST,2026-02-22 16:15,2026-02-23 00:00,20.06693413,-102.2722254,C3ntro,"A la altura de  El Sauz de Abajo, situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB
+
+*Ubicación de referencia",6c313619-2e70-42b0-a83a-d999696d5b92
+83,🚨⚠️🔫 Situación de riesgo en Moyahua,safety,PAST,2026-02-22 17:39,2026-02-23 00:40,21.25743502,-103.1573948,C3ntro,"Situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",3a642ca4-18a3-448f-9162-832e0b5848f2
+84,🚨⚠️🔫 Situación de riesgo en San Francisco de Los Romo,safety,PAST,2026-02-22 17:42,2026-02-23 00:00,22.0680527,-102.2791575,C3ntro,"Situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",b7ecabf3-6e48-4518-8ebd-412e4d0e2f67
+85,Cierre por incendio en tractocamión,safety,PAST,2026-02-22 16:32,2026-02-22 20:32,16.9295006,-99.7935588,Twitter,Cierre en autopista cuernavaca - acapulco por incendio,2e54af23-55d6-4cb5-9da6-04e18b05152c
+86,Cierre parcial por accidente en aut méxico-querétaro,vial,PAST,2026-02-22 16:39,2026-02-22 20:39,20.0430496,-99.5788684,Twitter,Reducción de carriles por accidente en km 100,16b67632-aa34-441f-83e3-651690352676
+87,🚨⚠️🔫 Situación de riesgo en Zitácuaro,safety,PAST,2026-02-22 16:57,2026-02-23 05:58,19.4592803,-100.3449488,C3ntro,"Puente de Fierro, situación de riesgo (narcobloqueo con quema de unidades).
+
+#NAB",702cd9b0-1d93-4eee-8d41-c1e0a4d7eb38
+88,🚨⚠️🔫 Situación de riesgo en Tepic - Mazatlan,safety,PAST,2026-02-22 17:11,2026-02-22 21:11,21.5411342,-104.9466864,C3ntro,"Cierre total de circulación, situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia",54ae063b-977d-4a38-87ce-082bb6c1a847
+89,Cierre parcial por accidente en méxico-puebla,vial,PAST,2026-02-22 17:15,2026-02-22 21:15,19.3079616,-98.7583028,Twitter,Reducción de carriles por accidente de choque,e22fbc63-30cd-478b-8b21-10e85ed803cb
+90,🚨⚠️🔫 Situación de riesgo en Reclusorio Vallarta,safety,PAST,2026-02-22 17:47,2026-02-23 00:52,20.72049526,-105.1896547,C3ntro,"Presunta irrupción armada en el penal de Puerto Vallarta.
+
+Derivado de los hechos violentos en Jalisco hombres  armados irrumpieron en el penal de Puerto Vallarta para liberar internos.
+",275ccc1a-2f8a-4d1e-880a-b8286fe5cbdd
+91,Cierre parcial en aut México - Querétaro,vial,PAST,2026-02-22 17:31,2026-02-22 21:31,20.0430496,-99.5788684,Twitter,Reducción de carriles por accidente en km 100,123bc9fb-d5c9-4657-8bbe-1ee8c685de91
+92,"🚨⚠️🔫 Situación de riesgo en Cañada, HIDALGO",safety,PAST,2026-02-22 18:44,2026-02-23 05:45,20.17165393,-99.18801069,C3ntro,"Unidad incendiada, dos vehículos fueron incendiados cerca de la localidad Cañada con dirección Juandnhó.
+
+*Ubicación de referencia
+
+#NAB
+",30ecb03c-60ca-4fce-9037-ad81e6723b77
+93,🚨⚠️🔫 Situación de riesgo en Tepic - Villaunión ,safety,PAST,2026-02-22 17:44,2026-02-22 21:44,21.7572859,-105.0745552,C3ntro,"Km 120, Cierre total de circulación tras vehículo incendiado (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia
+
+#NAB",4156e311-b47b-4f35-a89b-2196a4fdd391
+94,Cierre total por Accidente Vial,vial,PAST,2026-02-22 18:03,2026-02-22 22:03,20.8040637,-101.4344902,Twitter,Cierre total de circulación cerca del km 27.530 en la carretera salamanca - león por accidente vial.,949ef07b-84d5-43d0-b56e-f18ba12ee598
+95,Carretera Jilotepec - Tula / quemaron vehiculos,safety,PAST,2026-02-22 19:26,2026-02-22 23:26,19.95071819,-99.2417501,C3ntro,Quema de vehiculos,bfdf9162-9ee8-4a17-b3f1-143b47237e5f
+96,🚨⚠️🔫 Situación de riesgo en Cd. Victoria - Matamoros,safety,PAST,2026-02-22 20:30,2026-02-23 00:30,23.7686596,-99.1112065,C3ntro,"Cierre total de circulación en tamaulipas por vehículo incendiado en la carretera ciudad victoria - matamoros.
+
+#NAB",10fdafbe-2979-4737-95dc-ff12386e3613
+97,Bus quemado,safety,PAST,2026-02-22 20:41,2026-02-23 00:41,19.40262032,-102.0674455,Aliados en ruta. En proceso de validación,Bus quemado ,338cc93b-caa4-4103-9933-288879209fbe
+98,Cierre parcial en méxico - querétaro,vial,PAST,2026-02-22 20:46,2026-02-23 00:46,20.0430496,-99.5788684,Twitter,Cierre parcial por accidente y retiro de unidad,ea410eb2-a376-4297-b6ea-04868695a628
+99,🚨⚠️🔫 Situación de riesgo en Cd. Victoria - Nuevo Padilla,safety,PAST,2026-02-22 20:48,2026-02-23 00:48,23.8065577,-99.0849746,C3ntro,Se registra cierre total de circulación tras vehículo incendiado.,2b3d9ec2-7415-4aea-9ad5-ab7db1e5fa37
+100,Congestión vehicular en méxico-cuernavaca,vial,PAST,2026-02-22 20:58,2026-02-23 00:58,19.0286981,-99.2188515,Twitter,Carga vehicular en el km 56 dirección cdmx,5eb806b5-6b15-49af-9212-50dda25ab00a
+101,Vehículo Incendiado en Monterrey-Nuevo Laredo,vial,PAST,2026-02-22 20:59,2026-02-23 00:59,26.5562638,-100.1185823,Twitter,Se registra cierre total de circulación tras vehículo incendiado en la carretera monterrey-nuevo laredo.,eb6bf4bd-dc9e-41f9-ae8b-e5fd22ef7bd0
+102,🚨⚠️🔫 Situación de riesgo en ZACATECAS,safety,PAST,2026-02-22 22:21,2026-02-23 05:23,22.24601668,-102.9364157,C3ntro,"Se reportan bloqueos en La Encarnación, Villanueva.
+
+*Ubicación de referencia #NAB ",1d9f80aa-788b-4435-ab97-19b89ff5ecb7
+103,🚨⚠️🔫 Situación de riesgo en ZACATECAS,safety,PAST,2026-02-22 22:24,2026-02-23 05:25,22.25680641,-102.9977622,C3ntro,"Se reportaron bloqueos en la zona de El Jagüey, Villanueva.
+
+*Ubicación de referencia #NAB ",558bb89f-7023-4766-b08a-17846102b4ac
+104,Narcobloqueo quema de vehículo,safety,PAST,2026-02-22 15:00,2026-02-22 19:00,20.75757459,-103.3830385,C3ntro,Quema de vehículo por narcobloqueo,4784e710-a090-46b0-935e-b372fe97277f
+105,Gasolinera incendiada,safety,PAST,2026-02-22 17:00,2026-02-22 21:00,20.63031309,-103.4365267,Aliados en ruta. En proceso de validación,El narco quemó la gasolinera,0c74fe00-8868-45b9-a567-5867026eb2d1
+106,🚨⚠️🔫 Situación de riesgo en Guadalajara,safety,PAST,2026-02-22 15:24,2026-02-23 00:25,20.64680963,-103.4056664,C3ntro,"A la altura de Parque Quetzalcoátl, cierre de circulación debido a situación de riesgo (narcobloqueo con quema de unidades), tras enfrentamiento armado. #NAB",bc470d34-c8b8-4a3e-bb48-9247c59bd720
+107,Detonaciones,safety,PAST,2026-02-22 23:37,2026-02-23 03:37,19.27551353,-99.1163312,Aliados en ruta. En proceso de validación,"Entrada de la colonia, detonaciones múltiples.",51b0c381-c9b0-4de4-8a44-04e855808b54
+108,Narcobloque Ojocaliente-luis Moya,general,PAST,2026-02-22 23:38,2026-02-23 03:38,22.52046694,-102.2501219,Aliados en ruta. En proceso de validación,Narco bloqueo masivo,81a78ba1-135f-4ef6-968d-4141f92745f9
+109,Posiblenarcobloqueo,vial,PAST,2026-02-22 23:43,2026-02-23 03:43,18.87650332,-99.6877224,Aliados en ruta. En proceso de validación,Bloqueo de autos sospechoso,141cbbd4-fc35-49d8-83da-a8688a30309b
+110,"🚨⚠️🚫 Ataque armado contra instalaciones de la Guardia Nacional en San Juan de los Lagos, Jalisco.",safety,PAST,2026-02-22 23:41,2026-02-23 05:00,21.29010135,-102.2682632,C3ntro,"Sujetos armados dispararon y lanzaron artefactos explosivos en contra de instalaciones de la Guardia Nacional en San juan de los Lagos, Jalisco.",76178725-9e85-4722-a4f6-dfb097a2f37e
+111,Bloqueo de carretera por incidente violento,safety,PAST,2026-02-22 18:47,2026-02-22 22:47,18.56927408,-100.8486754,Aliados en ruta. En proceso de validación,Carretera bloqueada ,774f6ba6-9660-4c61-b395-8c197e01dc8b
+112,Cierre carretero.,safety,PAST,2026-02-22 23:58,2026-02-23 03:58,18.72340366,-100.9494782,Aliados en ruta. En proceso de validación,Cierre de carretera por incidente violento ,f2a30387-305c-4a1f-b0ed-9c1af9c6b088
+113,🚨⚠️🔫 Situación de riesgo por quema de banco del Bienestar JALISCO,safety,PAST,2026-02-22 21:32,2026-02-23 00:00,22.62736189,-103.8975797,C3ntro,"Banco del Bienestar en Huejuquilla, situación de riesgo debido a quema de instalaciones. ",2a88e703-fd7e-4a9f-8f8a-2b3c948305bb
+114,"🚨⚠️🚫 Nuevo operativo militar en la ciudad El Grullo, Jalisco.",safety,PAST,2026-02-23 00:00,2026-02-23 05:00,19.80077515,-104.2239087,C3ntro,"Se está llevando a cabo una operación militar especial en la ciudad de El GRULLO, estado de JALISCO, que involucra un helicóptero UH-60M BLACK HAWK y un EC725 COUGAR de la Fuerza Aérea Mexicana (ubicación aproximada).",a56433c3-3c41-46f0-8090-8bb57c3da13e
+115,Carga vehicular en la autopista,vial,PAST,2026-02-23 00:14,2026-02-23 04:14,19.0571775,-99.2408406,Twitter,Carga vehicular en la autopista dirección cdmx,23c3e1ab-2e89-4dbc-9fe4-1c66f06ddb8e
+116,Quema del Banco del Bienestar de Tabasco,safety,PAST,2026-02-22 20:30,2026-02-23 00:30,21.87763728,-102.9075011,Aliados en ruta. En proceso de validación,Quema del Banco,f689d298-59fb-44ef-97f4-4472083e9afe
+117,Accidente Vial en Jalisco,vial,PAST,2026-02-23 00:47,2026-02-23 04:47,20.8040637,-101.4344902,Twitter,Accidente vial cerca del km 27.530 en la carretera salamanca - león.,016a6f18-d952-42ea-b3b3-953d16a135b2
+118,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.74117389,-103.4074641,C3ntro,"Juan Gil Preciado y Arco del Triunfo, situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",5e0045d8-8397-4d19-9d81-8abe2047726f
+119,Intento de quema a la farmacia guadalajara,safety,PAST,2026-02-23 00:47,2026-02-23 00:50,20.37297087,-102.0259142,C3ntro,Farmacia guadalajara quemada,9615ec39-7d36-467a-8558-ef5eee1e9a26
+120,🚨⚠️🔫 Situación de riesgo en Zapopan,safety,PAST,2026-02-22 22:00,2026-02-23 00:00,20.75306969,-103.4031394,C3ntro,"Av. Patria y Av. Federalismo, situación de riesgo (quema de unidades).
+
+*Ubicación de referencia
+
+#NAB
+",c77611e7-682f-4e33-a4eb-293a160f8575
+121,Quema de un Oxxo,safety,PAST,2026-02-22 23:00,2026-02-23 00:00,21.6505126,-102.9678701,C3ntro,"Quema de un Oxxo, a la altura de la gasolinera BP, Los Santiagos, Jalpa, Zacatecas",78b185fe-2568-4693-a1d7-e546f65a7bbf
+122,Resguardo,general,PAST,2026-02-23 01:14,2026-02-23 05:14,18.7279908,-98.9600975,Aliados en ruta. En proceso de validación,"Bombas,carreteras cerradas",7cbfb908-a84d-4b1f-a671-ec23a7a4f9f4
+123,Gasolinera incendiada,safety,PAST,2026-02-22 22:50,2026-02-23 00:50,20.6312115,-103.4320938,C3ntro,El narco quemó la carretera,5d47c0e0-a03b-4890-8551-a2cd9f4f2bb5
+124,Quema de Vehículo,vial,PAST,2026-02-22 07:00,2026-02-22 11:00,20.9423423,-101.423833,Aliados en ruta. En proceso de validación,Sujetos hacen un atentado a un vehículo y lo incendian ,756af627-1c29-400d-9e92-8a0f99a2bee1
+125,Enfrentamiento Armado,safety,PAST,2026-02-23 00:00,2026-02-23 04:00,20.94969289,-101.4234051,Aliados en ruta. En proceso de validación,"Sujetos armados realizan detonaciones contra un transporte de personal y una patrulla municipal 
+Policías municipales repelieron la agresión y evitaron la quema del camión ",fe4eeaf7-8f94-4ba8-bad6-dffedc12e922
+126,Sujetos Incendian automóvil,vial,PAST,2026-02-22 19:00,2026-02-22 23:00,20.9424115,-101.423871,Aliados en ruta. En proceso de validación,Sujetos no identificados incendian automóvil ,91015fe9-5c25-4a33-a7f5-67e37e69748d
+127,🚨⚠️🔫 Situación de riesgo en Tepic - Mazatlan ,safety,PAST,2026-02-22 17:16,2026-02-23 00:00,22.23518295,-105.3038312,C3ntro,"Situación de riesgo (narcobloqueo con quema de unidades).
+
+*Ubicación de referencia",6527268e-569d-40c0-96b3-d6933df1af61
+128,Incendian Oxxo,safety,PAST,2026-02-22 16:19,2026-02-22 20:19,20.96656776,-101.4218883,Aliados en ruta. En proceso de validación,"Sujetos Armados incendian Oxxo, Frente a Parque Industrial y de Negocios Las Colinas ",405eb2ab-617e-488e-b5e1-b2c1cf4a8317
+129,Incendian Transporte de Personal,safety,PAST,2026-02-23 01:46,2026-02-23 05:46,20.94175198,-101.4282918,Aliados en ruta. En proceso de validación,Sujetos Armados Incendian Transporte Privado de Personal de la Empresa DM Control ,2b63cd0e-cd5e-4748-b277-31c6cc418e40
+130,Quema de banco bienestar,safety,PAST,2026-02-23 01:45,2026-02-23 05:45,19.6917169,-100.554915,Aliados en ruta. En proceso de validación,Quema de banco,68f612dc-5174-40d8-af70-772b4bd62f9a
+131,Quema de vehiculos,vial,PAST,2026-02-23 00:56,2026-02-23 04:56,22.3535878,-103.2095913,Aliados en ruta. En proceso de validación,Narcobloqueo,3a3f6b65-57ef-4896-b217-9e1d1d1df4a7
+132,Enfrentamiento Armado,safety,PAST,2026-02-22 19:44,2026-02-22 23:44,20.9546234,-101.418172,Aliados en ruta. En proceso de validación,Enfrentamiento Armado de Policía Municipal contra un grupo de civiles armados ,b7127684-a7b3-4d2d-8868-73da1e676b88
+133,Narco bloqueo,safety,PAST,2026-02-23 01:56,2026-02-23 05:56,19.46648894,-100.3433945,Aliados en ruta. En proceso de validación,Bloqueo y quema de vehículos ,bfc73636-3c67-4d6a-87d7-08c8d63fcb88
+134,Incendian Oxxo,safety,PAST,2026-02-22 18:14,2026-02-22 22:14,20.9540708,-101.4107759,Aliados en ruta. En proceso de validación,Sujetos Armados no identificados incendian Oxxo ,59deeac0-30de-41f3-8c7b-304818e832a7
+135,Bloqueo Carretera a GDL,safety,PAST,2026-02-22 18:23,2026-02-22 22:23,21.47508324,-103.4492918,Aliados en ruta. En proceso de validación,Se presenta un bloqueo de la carretera en teul zac,0961e41e-50c6-49f7-a146-c79e29a49afa
+136,Quema de camión de transporte público por narcos,safety,PAST,2026-02-22 10:07,2026-02-22 14:07,20.65199198,-103.2712364,Aliados en ruta. En proceso de validación,"Transporte público en llamas, peligros y narcobloqueo cerca de las zonas del parque de la solidaridad y Luis Quintanar. ",5a8c00fb-2a41-4041-a907-70ade5ad5a38
+137,Detonaciones,vial,PAST,2026-02-22 07:20,2026-02-22 11:20,26.32373653,-98.846556,C3ntro,Detonaciones por el hospital cerca del Vado ,975675eb-8bf0-4b54-a478-ad79cdcb6720
+138,Quemaron,general,PAST,2026-02-22 13:05,2026-02-22 17:05,20.6497127,-103.4563886,Aliados en ruta. En proceso de validación,Quemaron el auto rally ,9fd6da9b-717a-4476-bc65-19c31f1d5b7b
