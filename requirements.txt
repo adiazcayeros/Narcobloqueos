@@ -1,0 +1,19 @@
+# Core data
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1       # Excel I/O
+scipy>=1.11         # spearmanr, cdist, stats
+
+# Spatial statistics
+libpysal>=4.7
+esda>=2.5
+
+# Network analysis
+networkx>=3.2
+
+# Geometry / mapping
+shapely>=2.0
+matplotlib>=3.7
+
+# Optional: progress bars
+tqdm>=4.65
