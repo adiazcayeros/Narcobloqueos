@@ -161,9 +161,8 @@ If you use this dataset or analysis, please cite:
 Mexico CJNG Incident Analysis, February 22–23, 2026.
 Combined DataInt + Aliado dataset, 389 records.
 Spatial and network analysis performed with PySAL and NetworkX.
-GitHub: https://github.com/your-org/mexico-cjng-feb2026
-```
-
+GitHub: https://github.com/adiazcayeros/Narcobloqueos
+Analysis by Alberto Diaz Cayeros with Claude AI assistance, report prepared by Claude AI
 ---
 
 ## Caveats
