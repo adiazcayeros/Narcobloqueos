@@ -12,6 +12,7 @@ On February 22, 2026, Nemesio Oseguera Cervantes ("El Mencho"), leader of the Ja
 
 This repository documents the analytical process used to characterise that incident wave: data collection, deduplication, spatial statistics, and a road network disruption counterfactual comparing CJNG's actual blockade pattern against the theoretically optimal disruption strategy.
 
+![Map 3: Overview of Narcobloqueos](figures/Narcobloqueos.jpg)
 ---
 
 ## Repository Structure
